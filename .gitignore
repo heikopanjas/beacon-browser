@@ -1,0 +1,74 @@
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift
+*.swp
+*.swo
+*~.nib
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE - VS Code (ignore ALL generated files)
+.vscode/
+*.swp
+*.swo
+
+# Other editors
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Build artifacts
+/build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# CocoaPods (if ever used)
+Pods/
+*.podspec
+
+# Carthage (if ever used)
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code coverage
+*.profdata
+*.profraw
+
+# Network credentials
+.netrc
