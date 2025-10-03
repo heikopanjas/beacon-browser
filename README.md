@@ -204,15 +204,6 @@ See `.copilot-instructions.md` for detailed development guidelines.
 
 For additional debugging information, you can modify the source to enable verbose logging or add custom filters.
 
-## Contributing
-
-Contributions are welcome! Please see the development guidelines in `.copilot-instructions.md` for:
-
-- Code style requirements
-- Commit message conventions
-- Testing procedures
-- Adding new manufacturer support
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
