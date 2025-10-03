@@ -1,10 +1,10 @@
-# BLEScanner - Master Agent Instructions
+# BLEScanner - Primary Agent Instructions
 
 **Last updated**: October 3, 2025
 
 ## Overview
 
-This document serves as the master instructions file for AI coding agents working on the BLEScanner project. All agents should read and follow these guidelines.
+This document serves as the primary instructions file for AI coding agents working on the BLEScanner project. All agents should read and follow these guidelines.
 
 ## Core Principles
 
@@ -273,7 +273,7 @@ Before presenting commits to the user, verify:
 
 ### October 3, 2025
 
-- **Initial creation**: Established master agent instructions file
+- **Initial creation**: Established primary agent instructions file
 - **Reasoning**: Centralize cross-project agent behavior and commit workflow; separate from project-specific technical details in `.github/copilot-instructions.md`
 - **Key decision**: Explicit user confirmation required for all git commits (NEVER auto-commit)
 
